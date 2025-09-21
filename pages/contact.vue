@@ -2,7 +2,7 @@
 <div class="bg-[#F5F5F5] py-12 flex flex-col">
     <section class="text-center flex-grow">
       <div
-        class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 mt-8 animate-fadeIn"
+        class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 mt-8 animate-fadeIn container mx-auto px-4"
       >
         <div
         class="p-4 shadow-lg hover:text-[#222222] text-[#F5F5F5] hover:border-b-1 bg-[#020C69] hover:bg-[#F5F5F5] transition-colors">
